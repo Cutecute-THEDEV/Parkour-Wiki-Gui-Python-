@@ -1,0 +1,223 @@
+[
+  {
+    "category": "Neos",
+    "title": "Single-Block Neo",
+    "difficulty": "Intermediate",
+    "color": "#ffc857",
+    "steps": [
+      "Stand at the edge beside the corner.",
+      "Face the outside corner of the target block.",
+      "Sprint toward the edge.",
+      "Jump instantly as you leave the edge.",
+      "Hold W plus A or D toward the corner.",
+      "Wrap your camera around the corner.",
+      "Keep the landing block near the center of your screen.",
+      "Release the sideways key after clearing the corner."
+    ],
+    "tips": [
+      "Use A for a left-side neo.",
+      "Use D for a right-side neo.",
+      "Do not jump too early.",
+      "Use a smooth camera turn instead of a sudden flick."
+    ]
+  },
+  {
+    "category": "Neos",
+    "title": "Double Neo",
+    "difficulty": "Advanced",
+    "color": "#ff8066",
+    "steps": [
+      "Complete the first neo without stopping.",
+      "Keep sprint momentum after landing.",
+      "Immediately line up with the second corner.",
+      "Jump from the edge of the first landing block.",
+      "Wrap around the second corner using the opposite strafe key.",
+      "Center your camera before the final landing."
+    ],
+    "tips": [
+      "The first landing must be near the correct edge.",
+      "Do not spend too long adjusting between jumps.",
+      "Practice each neo separately before combining them."
+    ]
+  },
+  {
+    "category": "Sprint Jumps",
+    "title": "Four-Block Sprint Jump",
+    "difficulty": "Advanced",
+    "color": "#ff8066",
+    "steps": [
+      "Get a full sprint before reaching the edge.",
+      "Aim directly at the target.",
+      "Jump at the last possible moment.",
+      "Hold W throughout the jump.",
+      "Keep sprint active.",
+      "Avoid turning your camera in midair.",
+      "Land near the center of the target."
+    ],
+    "tips": [
+      "Jumping early reduces your distance.",
+      "Do not accidentally release sprint.",
+      "A clean straight line is the most consistent setup."
+    ]
+  },
+  {
+    "category": "Corner Jumps",
+    "title": "Corner Wrap",
+    "difficulty": "Intermediate",
+    "color": "#ffc857",
+    "steps": [
+      "Approach the corner at sprint speed.",
+      "Jump at the edge of the starting block.",
+      "Hold W and strafe toward the corner.",
+      "Turn your camera around the corner.",
+      "Keep the target platform in view.",
+      "Stop turning once the target is in front of you.",
+      "Make small corrections before landing."
+    ],
+    "tips": [
+      "Large camera movements are difficult to control.",
+      "Aim slightly beyond the corner during takeoff.",
+      "Practice both clockwise and counterclockwise versions."
+    ]
+  },
+  {
+    "category": "Momentum",
+    "title": "Momentum Preservation",
+    "difficulty": "Technique",
+    "color": "#6cb6ff",
+    "steps": [
+      "Begin sprinting before reaching the edge.",
+      "Keep forward input held.",
+      "Avoid pressing the opposite movement direction.",
+      "Use small air-strafing corrections.",
+      "Continue moving forward after landing."
+    ],
+    "tips": [
+      "Stopping sprint before takeoff makes jumps shorter.",
+      "Landing near the middle gives you more setup options.",
+      "Smooth movement is more consistent than rapid key presses."
+    ]
+  },
+  {
+    "category": "Head Hitters",
+    "title": "Basic Head-Hitter",
+    "difficulty": "Intermediate",
+    "color": "#ffc857",
+    "steps": [
+      "Sprint toward the low ceiling.",
+      "Jump shortly before reaching it.",
+      "Allow your head to hit the ceiling.",
+      "Keep holding W after the collision.",
+      "Aim for the far side of the target platform."
+    ],
+    "tips": [
+      "Jumping too early makes you lose momentum.",
+      "The ceiling must be low enough to stop your vertical movement.",
+      "Keep sprint held for the entire setup."
+    ]
+  },
+  {
+    "category": "Timing",
+    "title": "Last-Tick Jump",
+    "difficulty": "Advanced",
+    "color": "#ff8066",
+    "steps": [
+      "Walk or sprint toward the edge.",
+      "Delay your jump until the final moment.",
+      "Jump just before leaving the block.",
+      "Hold forward while airborne.",
+      "Aim for the near edge of the target."
+    ],
+    "tips": [
+      "This gives maximum horizontal distance.",
+      "Do not wait so long that you walk off the block.",
+      "Use a visual marker on the starting block while practicing."
+    ]
+  },
+  {
+    "category": "Ladders",
+    "title": "Ladder Catch",
+    "difficulty": "Advanced",
+    "color": "#ff8066",
+    "steps": [
+      "Jump toward the ladder.",
+      "Aim your crosshair at the ladder surface.",
+      "Hold the movement key toward the wall.",
+      "Press the sneak key as you approach the ladder.",
+      "Grab the ladder before falling."
+    ],
+    "tips": [
+      "Start with a large ladder target.",
+      "Do not look away from the ladder during the jump.",
+      "The timing is easier when the ladder is placed on a flat wall."
+    ]
+  },
+  {
+    "category": "Slime",
+    "title": "Slime Bounce Transfer",
+    "difficulty": "Advanced",
+    "color": "#ff8066",
+    "steps": [
+      "Land on the slime block near its center.",
+      "Keep your camera aimed at the next platform.",
+      "Hold forward during the bounce.",
+      "Use air strafing to adjust your trajectory.",
+      "Prepare to release movement when landing."
+    ],
+    "tips": [
+      "The center of the slime gives the most predictable bounce.",
+      "Avoid landing on the edge.",
+      "Practice the bounce without a target first."
+    ]
+  },
+  {
+    "category": "Practice",
+    "title": "Ten-Attempt Consistency Drill",
+    "difficulty": "Practice",
+    "color": "#b187ff",
+    "steps": [
+      "Choose one jump.",
+      "Attempt it ten times without changing the setup.",
+      "Record how many attempts succeed.",
+      "Change only the jump timing.",
+      "Repeat another ten attempts.",
+      "Keep the timing with the best success rate."
+    ],
+    "tips": [
+      "Consistency is more useful than a single lucky completion.",
+      "Practice left and right versions separately.",
+      "Do not change camera sensitivity and timing at the same time."
+    ]
+  }
+    {
+        "category": "Neos",
+        "title": "Triple Neo",
+        "difficulty": "Advanced",
+        "color": "#ff6b6b",
+        "steps": [
+            "Stand at the edge beside the first corner.",
+            "Face the outside corner of the first target block.",
+            "Start sprinting toward the edge.",
+            "Jump as you leave the edge and hold W plus A or D.",
+            "Wrap your camera around the first corner.",
+            "Keep your movement controlled as you clear the first neo.",
+            "Immediately line up with the second corner.",
+            "Continue sprinting and jump toward the second neo.",
+            "Hold W plus A or D and smoothly wrap around the second corner.",
+            "Adjust your camera toward the final target while maintaining momentum.",
+            "Clear the third corner and release the sideways key.",
+            "Center your movement over the final block and land."
+        ],
+        "tips": [
+            "Triple neos require consistent timing on all three corners.",
+            "Use A for left-side neos and D for right-side neos.",
+            "Avoid overcorrecting your camera after each corner.",
+            "Keep your crosshair near the next corner before committing to the jump.",
+            "Preserve as much horizontal momentum as possible between neos.",
+            "Practice each neo individually before attempting all three in a row.",
+            "Small camera adjustments are safer than sudden flicks.",
+            "Missing the first neo usually means the approach angle was wrong; missing later neos often comes from losing momentum or alignment."
+        ]
+    },
+
+]
